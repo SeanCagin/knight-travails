@@ -78,3 +78,5 @@ function addNextMoves(next, path, visited) {
     }
   }
 }
+
+window.knightMoves = knightMoves;
